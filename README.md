@@ -11,6 +11,7 @@ This repository contains a Manifest V3 extension for Microsoft Edge.
 - https://www.e24.no/
 - https://www.tek.no/
 - https://www.bt.no/
+- https://www.aftenbladet.no/
 
 ## Behavior
 
