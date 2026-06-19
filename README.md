@@ -1,4 +1,4 @@
-# Browser Extension: _FkYourPayOrConsent_ - Pay-or-Consent Overlay Remover
+# _FkYourPayOrConsent_ - Pay-or-Consent Overlay Remover
 
 Extension that detects and removes Cookie Pay-or-Consent overlays for Schibsted sites
 
