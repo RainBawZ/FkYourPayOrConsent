@@ -1,6 +1,7 @@
 # Microsoft Edge Extension: _FkYourPayOrConsent_ - Pay-or-Consent Overlay Remover
 
 MSEdge Extension that detects and removes Cookie Pay-or-Consent overlays for Schibsted sites
+
 This repository contains a Manifest V3 extension for Microsoft Edge.
 
 ## Target sites
