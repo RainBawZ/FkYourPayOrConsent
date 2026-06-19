@@ -13,7 +13,7 @@ This repository contains a Manifest V3 extension for Microsoft Edge.
 
 ## Behavior
 
-- Detects and removes consent overlays with ids starting with `sp_message_container_1489`.
+- Detects and removes consent overlays with ids starting with `sp_message_container_`.
 - Re-enables page scrolling by restoring `overflow` and related style properties on `<html>` and `<body>`.
 - Watches for dynamically injected overlays and removes them if they appear later.
 
