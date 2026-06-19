@@ -1,16 +1,22 @@
 {
     "manifest_version": 3,
     "name": "F*ck Your Pay-or-Consent",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Removes Schibsted's Cookie 'Pay-or-Consent' overlays and restores page scrolling on selected sites.",
     "content_scripts": [
         {
             "matches": [
+                "https://vg.no/*",
                 "https://www.vg.no/*",
+                "https://aftenposten.no/*",
                 "https://www.aftenposten.no/*",
+                "https://e24.no/*",
                 "https://www.e24.no/*",
+                "https://tek.no/*",
                 "https://www.tek.no/*",
+                "https://bt.no/*",
                 "https://www.bt.no/*",
+                "https://aftenbladet.no/*",
                 "https://www.aftenbladet.no/*"
             ],
             "js": [
